@@ -1,6 +1,6 @@
 #include "all.h"
 
-
+/*test 20160611  ---  NanJingUniversitity*/
 int main(void)
 {
     BSP_Init();
